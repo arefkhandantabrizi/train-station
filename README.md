@@ -43,3 +43,4 @@ Logic is separated from UI: data and filtering live in hooks and API layer; comp
 ## Deployment
 
 Build the app with `npm run build` and serve the `dist` folder with any static host (e.g. Vercel, Netlify, GitHub Pages). No environment variables are required; the app uses the public Gist URL for station data.
+The live demo address is: https://train-station-tan.vercel.app/
